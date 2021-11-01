@@ -1,0 +1,16 @@
+---
+title: "My Homepage"
+---
+## **Autobiography of Alma Hernandez**
+
+I was born in August 28th, 1999 in El Paso, Texas, a city located in the border with Juarez, Mexico, where I was raised. I am the daughter of Leonel Hernandez and Veronica Navarro, and I have three siblings; Josue, Abigail and Ammi (*Image 1*). My education has been an important part of my life since it has shaped the professional path that I want to follow. 
+
+![alt text](images/image1.jpg)
+*Image 1: Alma's family.*
+
+I attended Spanish speaking institutions in Mexico until I entered the University of Texas at El Paso (UTEP), where I got my Bachelors of Science in Microbiology in May 2021 (*Image 2*). During my time at UTEP, I performed various professional and educational activities. In 2019, I joined the Peer-Led Team Learning program of chemistry at UTEP as a chemistry peer leader and tutor, where I conducted weekly workshops for general chemistry students, as well as tutored them and performed experiments to reinforce the topics learned in lecture. The same year, I joined an ecology research laboratory where I was introduced to Arctic soil research, which later became my area of interest. 
+
+![alt text](images/image2.jpg)
+*Image 2: Alma's graduation ceremony at UTEP.*
+
+In 2021, I received the NSF Graduate Research Fellowship Award, which allowed me to continue my studies. I am currently a master's student in Ecosystem Science at the University of New Hampshire, and I intend to do research related to microbial activity in Arctic soils. My family and God are my motivation to keep pursuing my dreams and become a better person every day.
