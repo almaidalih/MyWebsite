@@ -2,3 +2,4 @@
 title: "Alma's Website"
 ---
 
+This website was created for my Data Science for Life Sciences class at UNH. You will find a short biography about myself.
